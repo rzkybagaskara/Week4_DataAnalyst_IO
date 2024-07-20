@@ -1,0 +1,11 @@
+# Ignore all CSV files
+*.csv
+
+# Ignore all Excel files
+*.xlsx
+
+# Ignore Outline.md
+*Outline.md
+
+# Ignore virtual environment directory
+.venv/
